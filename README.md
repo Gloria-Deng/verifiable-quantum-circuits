@@ -45,7 +45,8 @@ python src/estimate_score.py 78765.63681893334 360209905486.0156 295358666.06853
 - [Google Quantum AI 比赛说明](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation)
 - [Qualtran](https://github.com/quantumlib/Qualtran) 和 [kickmix](https://pypi.org/project/kickmix/)
 - 本项目成绩估算所用参考成本参照 [rikeda71/vqcc-harness](https://github.com/rikeda71/vqcc-harness) 等公开资料。
-- 常量种子数值分析参考 tobeetaylor 的公开方法；高分提交采用 maoxin123、leotang09 及其他参赛者公开的线路和参数。
+- 常量种子数值分析参考 [tobeetaylor 的公开方法](https://www.kaggle.com/code/tobeetaylor/constseed-invsqrt-reconstruction)。
+- 高分提交采用 [maoxin123 的线路组合](https://www.kaggle.com/code/maoxin123/qcc-v25-coded-word-chemistry)、[leotang09 的提交包](https://www.kaggle.com/code/leotang09/vqcc-t7421-submission)及其他参赛者公开的线路和参数。
 
 ## 许可
 
